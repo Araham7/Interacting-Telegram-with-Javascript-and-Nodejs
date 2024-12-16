@@ -10,7 +10,7 @@ git clone https://github.com/Araham7/Interacting-Telegram-with-Javascript-and-No
 npm install
 ```
 
-## 3. go to the 
+## 3. Go to the `Interacting-Telegram-with-Javascript-and-Nodejs` folder by running below command in the terminal:--
 ```bash
 cd Interacting-Telegram-with-Javascript-and-Nodejs
 ```
